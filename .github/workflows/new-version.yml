@@ -12,4 +12,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Get release version
-        run: "Name from github.ref_name: ${{  github.ref_name }}" 
+        run: echo "Name from github.ref_name: ${{ github.ref_name }}" 
