@@ -1,0 +1,24 @@
+name: Check version
+
+on:
+  push:
+    branches-ignore:
+      - master
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check branch format
+        id: check-branch
+        run: |
+          if [[ ${{ github.head_ref }} =~ ^v[0-9]+\.[0-9]+$ ]]; then
+              echo ::set-output name=match::true
+          else
+              echo 'Invalid branch name'
+              exit 1
+          fi
+
+      - name: Valid version
+        if: steps.check-version.outputs.match == 'true'
+        run: echo Valid version
