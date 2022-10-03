@@ -1,0 +1,187 @@
+To be defined, do not take into account
+
+TÉRMINOS Y CONDICIONES GENERALES DE USO DE LA PLATAFORMA MATCHTRIAL
+
+
+Los siguientes Términos y Condiciones Generales de Uso establecen el marco legal del uso de la Plataforma MatchTrial. Le recomendamos que los lea atentamente, ya que, junto a la Política de Privacidad a la que se hará referencia, constituyen las reglas que regulan su uso.
+
+Para poder completar el registro, descarga, instalación, acceso y uso de la Plataforma MatchTrial, es necesario que acepte de forma expresa los presentes Términos y Condiciones.
+
+El uso de la Plataforma MatchTrial podría permitir al Usuario acceder y/o contactar con servicios de terceros. El Usuario deberá tener en en cuenta que estas Condiciones y la Política de privacidad solo se aplican al uso de la Plataforma MatchTrial. Cuando el Usuario use servicios o productos de terceros, el uso que el Usuario haga de los mismos se regirá según las propias condiciones y políticas de privacidad del tercero.
+
+1. DEFINICIONES
+
+CONDICIONES: se refiere a los presentes Términos y Condiciones Generales de Uso, incluida la Política de Privacidad a la que más adelante se refiere.
+MATCHTRIAL: se refiere a SCIENCE4TECH SOLUTIONS, SL, sociedad con domicilio social en Barcelona (08005), calle Ramón Turró, núm. 40-42, con número de identificación fiscal B-40.580.581, dirección de correo electrónico info@matchtrial.health, inscrita en el Registro Mercantil de Barcelona, en el Tomo 47.056, Folio 147, Hoja B-53.9616.
+ENSAYO CLÍNICO: investigación efectuada con seres humanos, con el fin de determinar o confirmar los efectos clínicos, farmacológicos, y/o demás efectos farmacodinámicos en los mismos, y/o de detectar las reacciones adversas, y/o de estudiar la absorción, la distribución, el metabolismo y la eliminación de uno o varios medicamentos en investigación con el fin de determinar su seguridad y/o su eficacia.
+ENSAYO CLÍNICO PATROCINADO: se trata de ensayos clínicos destacados dentro del aplicativo por haber alcanzado MATCHTRIAL un acuerdo con dicha finalidad con el Promotor del mismo y que permite realizar todo el proceso hasta el momento de concertación de cita médica a través de la aplicación. Ello conlleva que sea MATCHTRIAL quien, respecto a los centros médicos, remita (en caso de afinidad entre el diagnóstico y el objeto del ensayo), y tras la realización de un prescreening telefónico, un diagnóstico ciego previamente informado por el usuario para que el centro pueda evaluar si se trata de un perfil que presenta afinidad con el target de paciente que dicho ensayo está reclutando. Asimismo, y en caso de que el centro médico muestre su interés, será MATCHTRIAL quien gestionará una primera visita del paciente para la realización del correspondiente screening previo a la inclusión, en su caso, del paciente dentro del estudio.
+PLATAFORMA MATCHTRIAL/PLATAFORMA/APLICACIÓN: plataforma o aplicación tecnológica a través de la cual MATCHTRIAL almacena información pública relativa a ensayos clínicos activos en España y, a partir de diagnósticos médicos introducidos en la Plataforma por los usuarios registrados, ofrece información más exacta de aquellos ensayos que muestran mayor afinidad con el diagnóstico informado, facilitando incluso el contacto a los pacientes con los hospitales reclutadores para dichos estudios.
+PROMOTOR: se trata del individuo, empresa, institución u organización responsable del inicio, gestión y/o financiación de un estudio clínico. Pueden ser, entre otros, compañías farmacéuticas, hospitales, o incluso médicos independientes que cuentan con su propia área de investigación.
+USUARIO/S: se refiere a aquellas personas físicas que, previo registro en la Plataforma MatchTrial (en las condiciones recogidas en las presentes Condiciones) acceden a la misma y hacen uso de los servicios y funcionalidades accesibles.
+PACIENTE (Usuario): Perfil de usuario registrado relativo a una persona física que sufre una patología (normalmente cáncer) interesado en utilizar la Plataforma para localizar aquellos ensayos clínicos activos en España que tengan mayor afinidad con su diagnóstico, previamente informado.
+FAMILIAR (Usuario): Perfil de usuario registrado relativo a una persona física que tiene un familiar que sufre una patología (normalmente cáncer) interesado en utilizar la Plataforma para localizar aquellos ensayos clínicos activos en España que tengan mayor afinidad con el diagnóstico de su familiar, previamente informado.
+MÉDICO (Usuario): Perfil de usuario registrado relativo a un profesional de la medicina (normalmente oncólogo) interesado en utilizar la Plataforma para localizar aquellos ensayos clínicos activos en España que tengan mayor afinidad con los diagnósticos introducidos y que pertenecen a pacientes que se encuentran bajo su control médico.
+DIAGNÓSTICO: Conjunto de datos facilitados por el usuario relativos a la enfermedad (normalmente oncológica) de un paciente que permite a la Plataforma realizar el análisis de que ensayos clínicos activos en España se ajustan más a dicha diagnosis.
+
+2. OBJETO DE LAS PRESENTES CONDICIONES Y REQUERIMIENTOS TÉCNICOS
+
+Las presentes Condiciones tienen por objeto regular el acceso y la utilización de la Plataforma MatchTrial, que se encuentra disponible en Apple Store y Play Store.
+La Plataforma es una aplicación móvil, por lo que es imprescindible la conexión a internet para poder hacer uso de la misma y es compatible tanto con los sistemas operativos iOS como Android.
+
+3. USO DE LA PLATAFORMA WEB
+3.1. Acceso y registro
+
+El acceso a la Plataforma solo será posible previa descarga de la Aplicación y registro como Usuario autorizado de la misma, debiendo el Usuario a tal fin facilitar los datos solicitados (que deberán ser veraces y exactos).
+La Plataforma principalmente se dirige a tres categorías de Usuarios: Pacientes oncológicos, Familiares de éstos y Médicos. Los perfiles Familiares y Médicos manifiestan disponer de las autorizaciones correspondientes de su familiar y/o paciente respectivamente para facilitar información relativa a diagnósticos y los datos personales que, en su caso, tengan que facilitar (aunque no sea a través de la propia Plataforma).
+Edad. Para poder registrarse como Usuario y utilizar la Plataforma, será imprescindible ser mayor de catorce (14) años. Se exceptúan los supuestos en que la ley exija la asistencia de los titulares de la patria potestad o tutela para la celebración del acto o negocio jurídico en cuyo contexto se recaba el consentimiento para el tratamiento.
+
+El administrador de la Plataforma, MATCHTRIAL, será el único encargado de gestionar y validar el registro del Usuario en la Plataforma, que se realizará de la siguiente forma:
+i) La primera vez que el Usuario vaya a hacer uso de la Plataforma (disponible de forma gratuita a través de Play Store, para dispositivos con sistema operativo Android; y de App Store, para dispositivos con sistema operativo iOS), deberá instalársela en su dispositivo móvil, acceder a la misma e introducir sus datos (nombre y apellidos, correo electrónico y contraseña) en el apartado “Registro” de la Plataforma. A continuación, la Plataforma solicitará al Usuario que introduzca su número de teléfono móvil para poder remitirle a continuación un código de verificación que permitirá al Usuario activar su cuenta.
+
+ii) Una vez el Usuario haya completado satisfactoriamente el proceso de registro, MATCHTRIAL dará de alta al Usuario en su base de datos de Usuarios registrados.
+
+3.2. Funcionamiento/uso
+Las finalidades del alta del Usuario en la Plataforma MatchTrial se dividen fundamentalmente en:
+
+a. Perfil Paciente:
+
+i. facilitar información al Usuario, una vez éste ha introducido un diagnóstico (que incluye la necesidad de facilitar datos de salud), acerca de aquellos ensayos clínicos oncológicos, patrocinados y no patrocinados, que muestran mayor afinidad respecto al diagnóstico facilitado, y aquellos centros hospitalarios que participan en el estudio por orden de cercanía a la localización del Usuario.
+El sistema utilizará la geolocalización del Usuario/Paciente para ofrecer los centros que se encuentren más cercanos, siempre que éste haya autorizado la geolocalización desde el sistema operativo y a través de la propia Aplicación. En caso contrario, el sistema ofrecerá aquellos centros más cercanos a la población informada en la configuración del diagnóstico.
+
+ii. Una vez el Usuario haya mostrado su interés por un ensayo patrocinado concreto (conforme a lo indicado en el apartado “1. Definiciones” de los presentes términos y condiciones) :
+
+a) MATCHTRIAL se pondrá en contacto telefónicamente (a través de un call center) con el Usuario al objeto de realizar un prescreening (una serie de preguntas médicas) que permitirá confirmar la compatibilidad detectada por la Aplicación. Por motivos de seguridad y a efectos de poder acreditar el cumplimiento normativo, la llamada telefónica podrá ser grabada.
+
+b) Si el resultado es negativo se informará al Usuario de que no procede seguir respecto a dicho estudio pues hecho el prescreening, del mismo se desprende que finalmente no cumple criterios.
+
+c) Si el resultado del preescring es positivo, MATCHTRIAL remitirá al/los centro/s hospitalario/s elegido/s, desde la Plataforma, el diagnóstico anonimizado del Paciente y el resultado del prescreening.
+
+d) Si el centro (o centros) en cuestión muestran su interés respecto a dicho perfil, MATCHTRIAL gestionará una visita médica para realizar el correspondiente screening en el centro hospitalario más cercano a la localidad donde reside paciente y que fue informada en el diagnóstico.
+
+iii. Respecto de aquellos ensayos identificados como resultado de la búsqueda que no estuviesen patrocinados, se facilitarán al Usuario los datos de contacto de los centros médicos para que el Usuario pueda, en su caso, contactar directamente con los mismos y evaluar directamente con ellos la posibilidad de concertar una visita y realizar el correspondiente screening. Asimismo, MATCHTRIAL podrá realizar un seguimiento (telefónico o por correo electrónico) con el Usuario al objeto de aclararle el funcionamiento del proceso, desde que el Usuario muestre interés por algún ensayo clínico no patrocinado, así como para aclararle aquellas dudas que pueda tener al respecto.
+
+b. Perfil Familiar:
+
+i. facilitar información al Usuario, una vez éste ha introducido un diagnóstico ciego de un familiar (que incluye la necesidad de facilitar datos de salud), acerca de aquellos ensayos clínicos oncológicos, patrocinados y no patrocinados, que muestran mayor afinidad respecto del diagnóstico facilitado, y aquellos centros hospitalarios que participan en el estudio por orden de cercanía al municipio indicado por el Usuario a la hora de informar el diagnóstico.
+
+En el caso del perfil Familiar como Usuario, la geolocalización (siempre que ésta haya sido autorizada en el sistema operativo y a través de la propia Aplicación) servirá para mostrar, como resultado de búsqueda instada por dicho Usuario, aquellos ensayos clínicos que, dados de alta en la base de datos de MatchTrial, se encuentren más cercanos a la ubicación del Usuario.
+
+ii. Una vez el Usuario haya mostrado su interés por un ensayo patrocinado (conforme a lo indicado en el apartado “1. Definiciones” de los presentes términos y condiciones) :
+
+a) MATCHTRIAL se pondrá en contacto con el Usuario al objeto de que pueda facilitar los datos de contacto del familiar/paciente y, seguidamente, MATCHTRIAL contactará telefónicamente (a través de un call center) con éste para informarle de los datos personales de los que dispone, del motivo por el que MATCHTRIAL dispone de dichos datos, el origen de los mismos, de la finalidad con la que los mismos se están tratando, así como para realizar un prescreening (una serie de preguntas médicas) que permita confirmar el “match” realizado por el aplicativo.
+
+b) Si el resultado del prescreening es negativo se informará al paciente de que no procede seguir respecto a dicho estudio pues hecho el prescreening, del mismo se desprende que finalmente no cumple criterios.
+
+c) Si el resultado del prescreening es positivo, MATCHTRIAL solicitará telefónicamente la autorizacion del paciente para remitir al/los centro/s hospitalario/s elegido/s, desde la Plataforma, el diagnóstico anonimizado así como el resultado del prescreening.
+
+d) Si el centro (o centros) en cuestión muestran su interés respecto a dicho perfil, MATCHTRIAL gestionará una visita médica para realizar el correspondiente screening en el centro hospitalario más cercano a la localidad donde reside paciente y que fue informada en el diagnóstico por el Familiar.
+
+iii. Si como resultado de la búsqueda de ensayos clínicos aparecen ensayos no patrocinados, MATCHTRIAL contactará con el Familiar para solicitarle los datos de contacto del paciente y, seguidamente, MATCHTRIAL contactará con el mismo para informarle de los datos de que dispone respecto de éste, del motivo por el que MATCHTRIAL dispone de dichos datos y de la finalidad con la que los mismos se están tratando, así como para aclararle el funcionamiento del proceso, desde que el Usuario mostró interés por algún ensayo clínico no patrocinado, así como para aclararle aquellas dudas que pueda tener al respecto y para hacer un seguimiento del proceso. Adicionalmente, se facilitarán al paciente los datos de contacto de los centros médicos para que el paciente pueda, en su caso, contactar directamente con los mismos y evaluar directamente con ellos la posibilidad de concertar una visita y realizar el correspondiente screening.
+
+c. Perfil Médico:
+
+i. facilitar información al Usuario, una vez éste ha introducido un diagnóstico ciego de un (o varios) paciente/s (que incluye la necesidad de facilitar datos de salud), acerca de aquellos ensayos clínicos oncológicos, patrocinados y no patrocinados, que muestran mayor afinidad respecto al diagnóstico facilitado, y aquellos centros hospitalarios que participan en el estudio por orden de cercanía al municipio indicado por el Usuario a la hora de informar el diagnóstico. Esto se informará por cada uno de los diagnósticos introducidos por el facultativo.
+
+En el caso del perfil Médico como Usuario, la geolocalización (siempre que ésta haya sido autorizada en el sistema operativo y a través de la propia Aplicación) servirá para mostrar, como resultado de búsqueda instada por dicho Usuario, aquellos ensayos clínicos que, dados de alta en la base de datos de MatchTrial, se encuentren más cercanos a la ubicación del Usuario.
+
+ii. Una vez el Usuario haya mostrado su interés por un ensayo patrocinado (conforme a lo indicado en el apartado “1. Definiciones” de los presentes términos y condiciones) :
+
+a) positivo, MATCHTRIAL solicitará telefónicamente la autorizacion del paciente para remitir al/los centro/s hospitalario/s elegido/s, desde la Plataforma, el diagnóstico anonimizado así como el resultado del prescreening.
+
+b) Si el centro (o centros) en cuestión MATCHTRIAL se pondrá en contacto con el Usuario al objeto de que pueda facilitar los datos de contacto del paciente y, seguidamente, MATCHTRIAL contactará telefónicamente (a través de un call center) con éste para informarle de los datos personales de los que dispone, del motivo por el que MATCHTRIAL dispone de dichos datos, el origen de los mismos, de la finalidad con la que los mismos se están tratando, así como para realizar un prescreening (una serie de preguntas médicas) que permita confirmar el “macth” realizado por el aplicativo.
+
+c) Si el resultado del prescreening es negativo se informará al paciente de que no procede seguir respecto a dicho estudio pues hecho el prescreening, del mismo se desprende que finalmente no cumple criterios.
+
+d) Si el resultado del prescreening es muestran su interés respecto a dicho perfil, MATCHTRIAL gestionará una visita médica para realizar el correspondiente screening en el centro hospitalario más cercano a la localidad donde reside paciente y que fue informada en el diagnóstico por el Médico.
+
+iii. Si como resultado de la búsqueda de ensayos clínicos aparecen ensayos no patrocinados, MATCHTRIAL contactará con el Médico para solicitarle los datos de contacto del paciente y, seguidamente, MATCHTRIAL contactará con el paciente para informarle de los datos de que dispone respecto de éste, del motivo por el que MATCHTRIAL dispone de dichos datos y de la finalidad con la que los mismos se están tratando, así como para aclararle el funcionamiento del proceso, desde el momento en el que el Usuario mostró interés por algún ensayo clínico no patrocinado, así como para aclararle aquellas dudas que pueda tener al respecto el paciente y para hacer un seguimiento del proceso. Adicionalmente, se facilitarán al paciente los datos de contacto de los centros médicos para que el paciente pueda, en su caso, contactar directamente con los mismos y evaluar directamente con ellos la posibilidad de concertar una visita y realizar el correspondiente screening.
+
+Las funciones y permisos que tenga cada Usuario dentro de la Plataforma respecto de los ensayos o estudios clínicos, serán los que MATCHTRIAL les atribuya, en función de su perfil.
+
+4. OBLIGACIONES DE LOS USUARIOS
+
+El Usuario es consciente y acepta voluntaria y expresamente que el uso de la Plataforma se realiza en todo caso bajo su única y exclusiva responsabilidad y de conformidad con las Condiciones de MATCHTRIAL.
+A continuación se establece el uso legal y aceptable de la Plataforma por parte del Usuario, que deberá acceder a la Plataforma y usarla únicamente con fines legales, autorizados y aceptables.
+El Usuario se compromete a:
+i) Utilizar la Plataforma de modo diligente, correcto y lícito y respetando la legislación vigente (especialmente en relación a la protección de datos, propiedad intelectual e industrial), la moral, el orden público y las buenas costumbres generalmente aceptadas.
+
+ii) Hacer un uso correcto de las claves de acceso a la Plataforma , siendo responsabilidad del Usuario la guarda y custodia de las referidas credenciales. MATCHTRIAL asumirá que ha sido el Usuario que posee el id y la contraseña de acceso registrado quien ha accedido a la Plataforma.
+
+iii) Actuar en todo momento de buena fe y de forma leal para con MATCHTRIAL y los demás Usuarios registrados.
+
+iv) No emitir ningún tipo de licencias para el uso de la Plataforma, arrendar o prestar la misma a terceros o permitir que terceros accedan a la misma.
+
+v) No registrarse aportando datos falsos o inexactos de manera deliberada o suplantando la identidad de terceros (sin perjuicio de la posibilidad que ofrecen los perfiles de familiar y médico). En dicho sentido, el Usuario deberá informar a MATCHTRIAL de cualquier cambio en la información personal utilizada por la Plataforma para gestionar la condición de Usuario.
+
+vi) Revisar cada cierto tiempo estas Condiciones, o cualesquiera otras que resultaran aplicables, verificando los cambios que cualquiera de ellas pudiera haber sufrido.
+
+vii) Revisar las comunicaciones recibidas de MATCHTRIAL o de cualquiera de sus autorizados, pues pueden contener información importante.
+
+viii) No utilizar la Plataforma con fines comerciales, especialmente para recabar información o contenidos con la finalidad de prestar servicios que constituyan claramente una competencia para MATCHTRIAL.
+
+ix) No modificar o tratar de modificar la Plataforma en modo alguno ni realizar acciones o utilizar medios orientados a simular la apariencia o las funciones de la Plataforma.
+
+x) No dañar, deshabilitar, sobrecargar o dificultar el uso de la Plataforma (o la red o redes conectadas a la misma), o interferir en su uso y disfrute.
+
+xi) Abstenerse de llevar a cabo acción alguna, directamente o mediante sistemas automatizados, que conlleve la introducción de virus informáticos, gusanos, troyanos o cualquier otra clase de código malicioso destinado a interrumpir, destruir o limitar las funcionalidades de la Plataforma.
+
+xii) No emplear técnicas de ingeniería inversa, alterar, modificar, crear obras derivadas y/o descifrar, descompilar o extraer o utilizar cualquier otro sistema destinado a conocer el código fuente de la Plataforma o de cualquier elemento sujeto a copyright o propiedad intelectual subyacente.
+
+xiii) En cualquier caso, no realizar (ni ayudar a otros a que realicen) ningún tipo de actos (a) que puedan violar, malversar o infringir derechos o intereses de MATCHTRIAL, de sus Usuarios o de terceros, incluidos los derechos de privacidad, publicidad, propiedad intelectual e industrial (patentes, marcas, derechos de copyright, secretos comerciales...), derechos de autor u otros derechos de propiedad; (b) que ilegales, obscenos, difamatorios, amenazantes, intimidantes, acosadores, agresivos, ofensivos desde el punto de vista racial o étnico, o que promuevan o fomenten conductas que puedan ser ilegales o de otro modo inadecuadas, incluida la promoción de delitos violentos; (c) que impliquen la publicación de falsedades, declaraciones erróneas o afirmaciones engañosas; o (d) impliquen cualquier otro uso no autorizado de la Plataforma, a menos que MATCHTRIAL autorice lo contrario.
+
+xiv) El Usuario tampoco debe, directamente o a través de medios automatizados: (a) obtener o intentar obtener acceso no autorizado; (b) interferir o afectar la protección, la seguridad o el rendimiento de la Plataforma; (c) crear cuentas de Usuarios por medios automatizados o no autorizados; (d) recopilar información sobre los Usuarios de cualquier forma inadmisible o no autorizada; (e) vender, revender, alquilar o cobrar el acceso a la Plataforma de una manera no autorizada; (f) distribuir o poner en disponibilidad la Plataforma en una red donde podrían usarse en varios dispositivos a la misma vez, excepto según se autorice mediante herramientas que MATCHTRIAL proporcione expresamente; ni (g) crear software o interfaces de programación de aplicaciones (API, por sus siglas en inglés), que funcionen de forma muy parecida a la Plataforma y ofrecerlos de forma no autorizada a terceros para que los usen.
+Derivado de la participación en un ensayo clínico, cualquiera que sea su rol (Paciente, Familiar o Médico), el Usuario deberá respetar la legislación aplicable (en especial, la relativa a ensayos clínicos con medicamentos), la moral, el orden público y las buenas costumbres generalmente aceptadas, así como cualesquiera condiciones le fueran aplicables.
+Si el Usuario infringe las Condiciones, MATCHTRIAL podrá adoptar medidas respecto a su cuenta, incluida su inhabilitación o suspensión, en cuyo caso el Usuario no podrá crear otra cuenta sin el permiso de MATCHTRIAL.
+
+5. DERECHOS DE PROPIEDAD INTELECTUAL
+5.1. Titularidad de la Plataforma, marcas y logotipos asociados.
+
+Tanto el diseño y código fuente de la Plataforma, como los logos, marcas, dibujos, modelos y demás signos distintivos que aparecen en el mismo, pertenecen a MATCHTRIAL y están protegidos por los correspondientes derechos de propiedad intelectual e industrial. MATCHTRIAL es propietaria de todos los contenidos protegidos por derechos de autor, marcas comerciales, dominios, logotipos, imágenes comerciales, secretos comerciales, patentes y otros derechos de propiedad intelectual asociados a la Plataforma. El Usuario no puede usar los contenidos protegidos por derechos de autor, marcas comerciales, dominios, logotipos, imágenes comerciales, patentes, ni otros derechos de propiedad intelectual, a menos que MATCHTRIAL le conceda expresamente permiso para ello. El Usuario puedes usar las marcas comerciales de las empresas afiliadas de MATCHTRIAL sólo previa autorización expresa por ésta, incluida cualquier autorización otorgada en las normas de marca publicadas.
+MATCHTRIAL se reserva el derecho a ejercer las acciones judiciales que correspondan contra los Usuarios que violen o infrinjan sus derechos de propiedad intelectual y/o industrial.
+
+5.2. Titularidad de los contenidos almacenados en la Plataforma.
+La titularidad y protección antes indicada alcanza asimismo a los contenidos de carácter científico o divulgativo alojados en las distitnas secciones de la Plataforma, estando igualmente protegidos por derechos de propiedad intelectual e/o industrial. Su uso, reproducción, distribución, comunicación pública, puesta a disposición, transformación o cualquier otra actividad similar o análoga queda totalmente prohibida, salvo que medie expresa autorización de MATCHTRIAL, o que dicho uso se produzca estrictamente en los términos derivados del uso de la Plataforma.
+Adicionalmente, el Usuario se obliga a usar todos los contenidos de forma diligente, correcta y lícita y, en particular, se compromete a abstenerse de suprimir, eludir o manipular el copyright y demás datos identificativos de los derechos de MATCHTRIAL o de sus titulares incorporados a los contenidos, así como los dispositivos técnicos de protección o cualesquiera mecanismos de información que pudieren incluirse en los contenidos.
+
+6. LIMITACIÓN DE LA RESPONSABILIDAD
+
+En la medida y en la extensión permitida por las leyes aplicables, la responsabilidad de MATCHTRIAL por el funcionamiento y contenido de la Plataforma quedará limitada en los supuestos que se indican a continuación y a aquellos otros supuestos de limitación o exención de responsabilidad especificados en estas Condiciones:
+
+6.1. Correcto funcionamiento y disponibilidad continuada
+MATCHTRIAL no será responsable por fallos en el funcionamiento de la Plataforma, así como tampoco por la interrupción, retrasos, lentitud, pérdidas o desconexiones en las comunicaciones. MATCHTRIAL no garantiza un funcionamiento y operatividad continua, constante e ininterrumpida de la Plataforma y, por tanto, no asume ninguna responsabilidad en relación con lo anterior.
+El acceso a la Plataforma puede verse interrumpido de forma temporal por cuestiones relativas a mantenimiento, incidencias técnicas, evolución o modificación de la Plataforma y similares, que el Usuario manifiesta conocer y aceptar de forma expresa.
+
+6.2. Responsabilidad por daños al Usuario o a MATCHTRIAL
+MATCHTRIAL no será responsable de los daños y perjuicios de cualquier naturaleza causados al Usuario como consecuencia de la presencia de virus u otros elementos en los contenidos que puedan producir alteraciones en el sistema contenido en la Plataforma. Tampoco será responsable de los daños y perjuicios que se causen al Usuario por fallos y errores en el acceso, en las conexiones, en las transmisiones o por la interrupción sin justa causa del acceso a la Plataforma, por intrusiones, virus informáticos, envíos masivos de publicidad o cuando las citadas causas, se deban a situaciones ajenas a la Plataforma, como por ejemplo, defectos en el ordenador del Usuario, deficiencia en su conexión, virus internos en el ordenador del Usuario, lentitud y problemas en las comunicaciones que tenga el Usuario con operadores de telefonía, o cuando se deban a causas de fuerza mayor.
+El Usuario es el responsable de mantener la seguridad de su dispositivo y su cuenta de MatchTrial, y debe notificar de inmediato a MATCHTRIAL de cualquier uso no autorizado o fallo de seguridad de su cuenta.
+
+6.3. Responsabilidad por los contenidos
+MATCHTRIAL se exime de toda responsabilidad respecto de cualquier decisión adoptada por el Usuario como consecuencia de la información contenida en la Plataforma.
+A pesar de tomar todas las precauciones necesarias para proporcionar en la Plataforma informaciones actuales y exactas, MATCHTRIAL no puede garantizar el rigor de toda la información facilitada, ni la inexistencia de errores u omisiones, debiendo ser consciente el Usuario de que la información a la cual tiene acceso es suministrada en las condiciones detalladas en las presentes Condiciones, sin ninguna garantía de que las mismas sean exactas y libres de errores.
+
+6.4. Responsabilidad por actos de terceros
+MATCHTRIAL tampoco será responsable de actos realizados por terceros ajenos al sistema que, quebrantando las medidas de seguridad de la Plataforma, lleven a cabo actos contra los Usuarios como el envío de virus informáticos, publicidad masiva o spam, correos comerciales, interrupción del acceso a la Plataforma.
+MATCHTRIAL se compromete y asegura haber adoptado todas las medidas técnicas, organizativas y legales para la seguridad de las comunicaciones, tanto en materia de conexiones seguras como en materia de protección de datos de carácter personal. No obstante lo anterior, MATCHTRIAL no garantiza la invulnerabilidad total de su sistema de seguridad ni la inviolabilidad de las comunicaciones, quedando exonerado de cualquier tipo de responsabilidad si se cumplen las condiciones establecidas en el apartado siguiente.
+MATCHTRIAL no será responsable por los daños que puedan producirse por casos de fuerza mayor. Tampoco será responsable por el funcionamiento inadecuado de la Plataforma por razones que se escapan de su competencia, como a título enunciativo y no limitativo, mal funcionamiento de los operadores de telefonía, insuficiente capacidad del sistema informático del Usuario para soportar el contenido y la extensión de la información exhibida en la Plataforma. No obstante, MATCHTRIAL se compromete a poner la máxima diligencia para resolver los problemas técnicos, subsanarlos o ayudar al Usuario a resolverlos.
+
+6.5. Responsabilidad por la participación de los Usuarios y/o sus familiares y/o pacientes en ensayos clínicos.
+Se hace constar asimismo que la funcionalidad principal de la Plataforma es relacionar diagnósticos médicos con ensayos clínicos en marcha, de tal manera que se facilite la reclutación de pacientes, dotando de un papel mucho más activo al Usuario de la Plataforma (ya sea Paciente, Familiar o Médico) en la búsqueda o gestión de acceso a dichos ensayos clínicos.
+Por lo tanto, MATCHTRIAL, que se limita a poner en contacto a dichos agentes (paciente/centro médico reclutador) no será en ningún caso responsable, de que el paciente entre o no a formar parte de un ensayo clínico concreto, ni del resultado satisfactorio o no del ensayo clínico, comprometiéndose el Usuario a mantener a MATCHTRIAL totalmente indemne respecto a dicha responsabilidad, al no tener MATCHTRIAL incidencia ni relación directa alguna con el ensayo clínico ni en el desarrollo del mismo.
+A estos efectos, MATCHTRIAL no será responsable y el Usuario (de cualquier índole) se compromete asimismo a mantener indemne a MATCHTRIAL por la falta de adecuación del diagnóstico de un paciente a un ensayo clínico (patrocinado o no), ya sea por los resultados que arroje la Plataforma al introducir los datos diagnósticos del paciente en cuestión, o de la realización del prescreening telefónico realizado, así como por la imposibilidad de que dicho paciente pueda participar en un ensayo clínico (o varios) por decisión del centro médico que lo ofrezca, con independencia de que el Usuario Médico haya podido considerar a priori que el perfil diagnóstico de aquel paciente respecto del que ha completado los datos diagnósticos en la Plataforma fuera idóneo para poder participar en un ensayo clínico, puesto que MATCHTRIAL, como se indica en el párrafo precedente, no tiene incidencia ni relación directa alguna respecto del ensayo clínico ni del desarrollo del mismo.
+
+7. POLÍTICA DE PRIVACIDAD
+
+MATCHTRIAL se preocupa por la privacidad de los Usuarios. La “Política de Privacidad”, de MATCHTRIAL en el uso de la Plataforma, que queda incorporada a las presentes Condiciones, describe los tipos de datos que MATCHTRIAL recibe y recopila del Usuario, necesarios para que el Usuario pueda ostentar tal condición, y la forma en que MATCHTRIAL usa y comparte esta información, o los derechos que tiene el Usuario en relación con el tratamiento de su información. En la Política de Privacidad se establecen los fundamentos legales para el tratamiento y/o procesamiento de los datos de carácter personal y/o la información personal del Usuario, incluida su recopilación, utilización, tratamiento y uso compartido, así como su transferencia y tratamiento en España donde MATCHTRIAL tiene o usa instalaciones, proveedores de servicios, empresas afiliadas o socios, sin importar donde el Usuario acceda a la Plataforma.
+
+8. ACTUALIZACIÓN DE LOS TÉRMINOS Y CONDICIONES
+
+Los presentes Términos y Condiciones de Uso podrán ser modificados por MATCHTRIAL en cualquier momento. En consecuencia, será responsabilidad exclusiva del Usuario verificar los términos y condiciones vigentes en cada una de las ocasiones en que se proponga utilizar la Plataforma, remitiéndose para ello a la fecha de última actualización que consta en el encabezamiento de estas Condiciones. En el supuesto de que el Usuario continúe utilizando la Plataforma, se considerará que ha aceptado sin reservas la versión modificada de las Condiciones. En el supuesto de no estar conforme con la nueva versión, el Usuario podrá solicitar la baja de su perfil de Usuario del sistema.
+
+9. VALIDEZ Y NULIDAD PARCIAL
+
+La declaración de nulidad o invalidez de cualquier estipulación contenida en las presentes Condiciones no afectará a la validez y eficacia de las demás cláusulas.
+
+10. LEGISLACIÓN Y JURISDICCIÓN
+
+Las presentes Condiciones se regirán e interpretarán de conformidad con la legislación española.
+Para la resolución de cualquier controversia que pudiera suscitarse en relación con la ejecución o interpretación de las Condiciones, y con renuncia expresa al fuero que pudiera corresponderles, el Usuario y MATCHTRIAL acuerdan someterse al fuero y jurisdicción de los Juzgados y Tribunales de la ciudad de Barcelona, España. Lo anterior no aplicará cuando la legislación establezca imperativamente un fuero distinto al pactado entre el Usuario y MATCHTRIAL.

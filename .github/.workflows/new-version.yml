@@ -1,0 +1,16 @@
+name: New version
+
+on:
+  pull_request:
+    types:
+      - closed
+    branches:
+      - v*.*
+
+jobs:
+  create-release:
+    if: ${{ github.event.pull_request.merged }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get release version
+        run: "Name from github.ref_name: ${{  github.ref_name }}" 
