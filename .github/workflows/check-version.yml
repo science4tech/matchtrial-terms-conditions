@@ -1,0 +1,29 @@
+name: Check version
+
+on:
+  push:
+    branches-ignore:
+      - main
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+
+      - name: Check branch format
+        id: check-branch
+        run: |
+          if [[ ${{ steps.extract_branch.outputs.branch }} =~ ^v[0-9]+\.[0-9]+$ ]]; then
+              echo ::set-output name=match::true
+          else
+              echo 'Invalid branch name'
+              exit 1
+          fi
+
+      - name: Valid version
+        if: steps.check-version.outputs.match == 'true'
+        run: echo Valid version

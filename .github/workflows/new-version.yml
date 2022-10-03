@@ -1,0 +1,25 @@
+name: New version
+
+on:
+  pull_request:
+    types:
+      - closed
+    branches: [ main ]
+
+jobs:
+  create-release:
+    if: ${{ github.event.pull_request.merged }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.head_ref }}
+          release_name: ${{ github.head_ref }}
+          body: |
+            New Terms and Conditions version created
+          draft: false
+          prerelease: false
